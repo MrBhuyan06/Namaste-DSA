@@ -1,3 +1,6 @@
+
+// in Bubble sort on each iteration the biggest value pop to the last
+
 function bubbleSort(arr) {
   let n = arr.length;
 
