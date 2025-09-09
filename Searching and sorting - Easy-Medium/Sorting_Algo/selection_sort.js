@@ -1,4 +1,5 @@
 //Here we selected the initicial element as sorted one and compare with the all the element for the innner loop
+// for the inner loop
 let arr = [4, 5, 1, 3, 9];
 function selectionSort(arr) {
   let n = arr.length;
