@@ -18,6 +18,10 @@ Constraints:
  * 
  * 
  */
+// Brute force approach is 
+
+
+
 
 function movingZeros(nums) {
   let p1 = 0;
